@@ -364,6 +364,10 @@ h4 {
   padding-right: 55px;
 }
 
+.info h4{
+  font-size: 11px;
+}
+
 .skills {
   background-color: #f2f2f2;
   border: 2px solid #0070ef;
