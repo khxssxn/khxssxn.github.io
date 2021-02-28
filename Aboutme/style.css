@@ -274,18 +274,18 @@ h4 {
   color: #e0dede;
 }
 
-.tel {
+.pve {
   display: inline-block;
 }
 
-.tel-logo {
+.pve-logo {
   padding: 25px 25px;
   width: 10%;
   height: 10%;
   display: inline-block;
 }
 
-.tel-text {
+.pve-text {
   display: inline-block;
   float: right;
   padding-top: 35px;
