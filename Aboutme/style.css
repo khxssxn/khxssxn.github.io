@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f3f4ed;
+  background-color: #ffffff;
   margin: auto;
 }
 
@@ -40,7 +40,7 @@ h4 {
 }
 
 .upper-quarter {
-  background-image: url('https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg');
+  background-image: url('https://images.unsplash.com/photo-1558544956-15f3c317e06a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2550&q=80');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
